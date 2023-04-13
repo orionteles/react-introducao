@@ -3,13 +3,7 @@ import Pagina from '../components/Pagina'
 
 const array = () => {
 
-  const carros = [
-    'Opala',
-    'Classic',
-    'Ka',
-    'Omega',
-    'Fuscão',
-  ]
+  const carros = ['Opala', 'Classic', 'Ka', 'Omega', 'Fuscão']
 
   return (
     <>

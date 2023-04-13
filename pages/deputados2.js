@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import apiFilmes from '../services/apiFilmes'
 
-const deputados = () => {
+const deputados2 = () => {
 
     const [deputados, setDeputados] = useState([])
 
@@ -26,4 +26,4 @@ const deputados = () => {
     )
 }
 
-export default deputados
+export default deputados2
