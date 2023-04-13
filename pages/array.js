@@ -7,7 +7,7 @@ const array = () => {
 
   return (
     <>
-      <Pagina titulo="Array">
+      <Pagina titulo="Arrays">
 
         <ol>
           {carros.map(item => (
